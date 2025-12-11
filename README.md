@@ -29,14 +29,4 @@ Lovera Photography is a modern, responsive photography portfolio website built w
 - **Styling:** Tailwind CSS
 - **Deployment:** Render
 
----
 
-## 🚀 Getting Started (Local Development)
-
-Follow these steps to run the project locally.
-
- 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
