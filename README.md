@@ -1,12 +1,42 @@
-# React + Vite
+# 📸 Lovera Photography
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lovera Photography is a modern, responsive photography portfolio website built with **React**, **Vite**, and **Tailwind CSS**. It showcases featured work, services, and contact information in a clean, elegant layout that works beautifully on both desktop and mobile.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 **Live Site:** https://lovera-photography-y5x0.onrender.com  
+
+
+
+## ✨ Features
+
+- Responsive Design – Optimized for mobile, tablet, and desktop.
+- Modern UI – Clean, minimal layout using Tailwind CSS utility classes.
+- Hero Section – Bold landing section to highlight the brand and call-to-action.
+- Portfolio / Gallery – Dedicated section to showcase photography work.
+- About Section** – Brief introduction / story of the photographer or brand.
+- Services / Packages – Space to describe photography packages or offerings.
+- Contact / Booking CTA – Clear call to action so clients can reach out or book a session.
+- Fast & Lightweight – Built with Vite for speedy development and optimized builds.
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Vite
+- **Styling:** Tailwind CSS
+- **Deployment:** Render
+
+---
+
+## 🚀 Getting Started (Local Development)
+
+Follow these steps to run the project locally.
+
+ 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
